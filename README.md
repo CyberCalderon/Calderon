@@ -1,14 +1,16 @@
-<h1>Hi, I'm Nick! </h1>
+# Hi, I'm Nick!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects:
 
 - [Active Directory Home Lab](https://github.com/cybercalderon/LABURL)
   
-<h2> Certifications</h2>
+## Certifications
+
 - [Security+](URL)
-- [Network+]https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing
-- [A+]https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing
+- [Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
+- [A+](https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing)
 - [Google IT Support Professional](https://coursera.org/share/3879ba7c526a7c655ba37a11ab5fa1cc)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
