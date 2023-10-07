@@ -6,7 +6,7 @@
   
 ## Certifications
 
-- [Security+](URL)
+- [Security+](https://drive.google.com/file/d/1k3jAemlw2qMF3lVcdjQMKeQJcdmfqVsL/view?usp=drive_link)
 - [Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
 - [A+](https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing)
 - [Google IT Support Professional](https://coursera.org/share/3879ba7c526a7c655ba37a11ab5fa1cc)
