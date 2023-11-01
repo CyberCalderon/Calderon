@@ -9,6 +9,7 @@
 - [Security+](https://drive.google.com/file/d/1k3jAemlw2qMF3lVcdjQMKeQJcdmfqVsL/view?usp=sharing)
 - [Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
 - [A+](https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing)
+- [SSCP](https://www.credly.com/badges/2f6bbba4-2777-4974-9f8e-1d0dd1626804/public_url)
 - [ITILv4](https://drive.google.com/file/d/1K38VDoANwu8Sff5mYZDu9f5Zv-PIlMEx/view?usp=sharing)
 - [Linux Essentials](https://drive.google.com/file/d/1556rcU80Ke-mPbcf15z1FcnztQpe4tre/view?usp=sharing)
 - [Google IT Support Professional](https://drive.google.com/file/d/115JDSRYZSRggsvC_CLmzhIkq0gTsGcUO/view?usp=sharing)
