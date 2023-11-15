@@ -12,6 +12,7 @@
 - [SSCP](https://www.credly.com/badges/2f6bbba4-2777-4974-9f8e-1d0dd1626804/public_url)
 - [ITILv4](https://drive.google.com/file/d/1K38VDoANwu8Sff5mYZDu9f5Zv-PIlMEx/view?usp=sharing)
 - [Linux Essentials](https://drive.google.com/file/d/1556rcU80Ke-mPbcf15z1FcnztQpe4tre/view?usp=sharing)
+- [Qualys Vulnerability Management](https://drive.google.com/file/d/1a4wHvgjZZfmKZUE0_rjz3ATazQdnqnRN/view?usp=sharing)
 - [Google IT Support Professional](https://drive.google.com/file/d/115JDSRYZSRggsvC_CLmzhIkq0gTsGcUO/view?usp=sharing)
 
 
