@@ -1,8 +1,10 @@
 # Hi, I'm Nick!
 
+<!--- Todo
 ## 👨‍💻 Cybersecurity Projects:
 
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
+--->
   
 ## Certifications
 
@@ -16,11 +18,11 @@
 - [Google IT Support Professional](https://drive.google.com/file/d/115JDSRYZSRggsvC_CLmzhIkq0gTsGcUO/view?usp=sharing)
 - [FEMA National Incident Management System 100, 200, 700](https://drive.google.com/drive/folders/1qRy_tO2JkuKR6QoUftWEvJMsdRYsQLhm?usp=drive_link)
 
-
+<!--- Todo
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](URL)
-
+--->
 
 <h2> 🤳 Connect with me:</h2>
 
