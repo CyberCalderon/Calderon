@@ -7,7 +7,7 @@
 --->
   
 ## Certifications
-
+- [Pentest+]()
 - [CySa+](https://drive.google.com/file/d/12sozWB2eub7mCu9E91j4gKvO_MeKmRse/view?usp=sharing)
 - [Security+](https://drive.google.com/file/d/1k3jAemlw2qMF3lVcdjQMKeQJcdmfqVsL/view?usp=sharing)
 - [Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
